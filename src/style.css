@@ -1,1 +1,17 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: black;
+}
+p {
+  color: rgb(5, 245, 105);
+  padding: 25%;
+  text-shadow: whitesmoke 5px 5px 7px;
+  font-size: 120%;
+}
+button {
+  margin: none;
+  background-color: rgb(5, 245, 105);
+  color: blue;
+  padding: 0.5%;
+  font-weight: bold;
+}
